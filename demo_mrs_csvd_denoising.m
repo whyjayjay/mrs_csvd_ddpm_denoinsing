@@ -1,7 +1,7 @@
 % -----------------------------------------------------%
 % demo_mrs_csvd_denoising.m
 % Written by Yeong-Jae Jeon
-% Email: yeong@gmail.com
+% Email: yeong@gachon.ac.kr
 % Started: 11/12/2024, Last modified: 11/12/2024
 % -----------------------------------------------------%
 % Reference:
