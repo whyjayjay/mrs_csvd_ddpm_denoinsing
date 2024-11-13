@@ -1,7 +1,7 @@
 % -----------------------------------------------------%
 % generate_training_dataset.m
 % Written by Yeong-Jae Jeon
-% Email: yeong@gmail.com
+% Email: yeong@gachon.ac.kr
 % Started: 11/12/2024, Last modified: 11/13/2024
 % -----------------------------------------------------%
 clear, clc, close all
